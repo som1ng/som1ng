@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋 I'm s0m1ng
+
+🎓 I'm an insurance major student at SCNU, focusing on **crack exe** and **android**.  
+💻 I love building things in **Rust**, **C++**, and **Python**.  
+
+## 🔧 Technologies
+- **Languages**: Rust, C++, Python  
+- **Research**: reversing engine
+- **Tools**: Git, Linux, Docker, VS Code  
+
+## 📫 Reach me
+- 📧 Email: shizeyang81@gamil.com
+- 🌐 [LinkedIn](https://www.s0m1ng.xyz/)
