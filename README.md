@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 ## 📫 Reach me
 - 📧 Email: shizeyang81@gamil.com
 - 🌐 [LinkedIn](https://www.s0m1ng.xyz/)
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=som1ng&show_icons=true&theme=radical)
