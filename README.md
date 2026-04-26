@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi there 👋 I'm s0m1ng
 
 🎓 I'm an insurance major student at SCNU, focusing on **crack exe** and **android**.  
-💻 I love building things in **Rust**, **C++**, and **Python**.  
+💻 building things in **Rust**, **C++**, and **Python**.  
 
 
 - ctfer
