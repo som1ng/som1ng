@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ## 🔧 Technologies
 - **Languages**: Rust, C++, Python  
 - **Research**: reversing engine
-- **Tools**: Git, Linux, Docker, VS Code  
 
 ## 📫 Reach me
 - 📧 Email: shizeyang81@gamil.com
