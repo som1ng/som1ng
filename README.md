@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 I'm s0m1ng
 
-🎓 I'm an insurance major student at SCNU, focusing on **crack exe** and **android**.  
+🎓 I'm a computer science major student at SCNU, focusing on **crack exe** and **android**.  
 💻 building things in **Rust**, **C++**, and **Python**.  
 
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies
 - **Languages**: Rust, C++, Python  
-- **Research**: reversing engine
+- **Research**: reversing engining
 
 ## 📫 Reach me
 - 📧 Email: shizeyang81@gamil.com
