@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies
 - **Languages**: Rust, C++, Python  
-- **Research**: reversing engining
+- **Research**: reverse engineering
 
 ## 📫 Reach me
 - 📧 Email: shizeyang81@gamil.com
